@@ -1,3 +1,3 @@
 Repo for project-based class.
 
-This repo has solution branches.
+The repo has branches for exercises and solutions.
